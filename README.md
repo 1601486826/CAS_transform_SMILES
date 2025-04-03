@@ -1,0 +1,2 @@
+# CAS_transform_SMILES
+通过化合物的CAS编码得到该化合物的SMILES格式
